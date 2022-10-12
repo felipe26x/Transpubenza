@@ -1,0 +1,124 @@
+body{
+    margin: 0 auto;
+    background-color: #1B1B1B;
+    font-family: poppins, sans-serif;
+    
+}
+
+
+/* codigo seccion principal */
+
+.principal{
+    padding: 200px;
+    text-align: center;
+}
+
+.container-principal{
+    display:inline-flex;
+    
+}
+
+.logo{
+    text-align: left;
+    margin-right: 30px;
+}
+
+.descri-bus  .first {
+    color: #E0E0E0;
+    font-size: 30px;
+
+
+
+
+}
+
+.descri-bus  .second {
+    color: #E0E0E0;
+    font-size: 22px;
+
+
+
+
+}
+
+
+.second span{
+    color: #67ED37;
+}
+
+
+
+/* seccion de horario */
+
+.horario {
+    padding: 200px;
+    text-align: center;
+
+}
+
+
+.container-horario{
+    display: inline-flex;
+}
+
+.descri-horario .titulo h1{
+    color: white;
+    font-size: 40px;
+}
+
+.descri-horario .info p{
+    color: #E0E0E0;
+    font-size: 20px;
+}
+
+/* seccion paradas */
+
+
+.paradas-recorrido{
+    padding: 200px;
+    text-align: center;
+}
+
+.container-paradas  .titulo h1{
+    color: white;
+    font-size:50px;
+}
+
+.container-paradas  .info p{
+    color: #E0E0E0;
+    font-size:20px;
+}
+
+
+
+.sel-paradas .container{
+    display: inline-flex;
+
+}
+
+.container .parada{
+    border-radius: 10px;
+    margin-right: 20px;
+    border: 1px solid #0B98E8;
+    padding: 5px  10px 5px 10px ;
+}
+
+
+.container .parada  p{
+    color: #E0E0E0;
+  
+}
+
+.container .parada:hover{
+    background: #0d79b8;
+ 
+  
+}
+
+
+
+
+
+
+
+
